@@ -1,0 +1,26 @@
+.reveal h1 {
+    text-transform: none;
+    font-family: monospace;
+}
+.reveal h2 {
+    text-transform: none;
+    font-family: monospace;
+}
+.reveal h3 {
+    text-transform: none;
+    font-family: monospace;
+}
+.reveal h4 {
+    text-transform: none;
+    font-family: monospace;
+}
+.reveal * {
+    font-family: monospace;
+}
+.reveal p {
+    text-align: left;
+    font-size: .8em;
+}
+table {
+    font-size: .7em;
+}
